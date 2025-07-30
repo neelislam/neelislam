@@ -16,10 +16,11 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/neelislam" target="blank">
-    <img src="https://img.shields.io/twitter/follow/neelislam?logo=twitter&style=for-the-badge" alt="Twitter" />
+  <a href="https://www.linkedin.com/in/rabiul-islam-8399391aa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
 
 ---
 
