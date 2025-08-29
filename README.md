@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Apu</h1>
 <h3 align="center">A Passionate Learner & Basic Programmer</h3>
 
+### Hi 👋, I'm Apu  
+A Passionate Learner & Basic Programmer  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=A+Passionate+Learner+%26+Basic+Programmer)](https://git.io/typing-svg)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=0e75b6&style=flat)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YourGitHubUsername&theme=dark&border_radius=5)](https://git.io/streak-stats)
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Flutter+Enthusiast+🚀;Learning+Something+New+Every+Day!+🌱" alt="Typing SVG" />
 </p>
