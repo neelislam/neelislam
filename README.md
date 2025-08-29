@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Learner & Basic Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Flutter+Enthusiast+🚀;Learning+Something+New+Every+Day!+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Flutter+Enthusiast+🚀;Learning+Something+New+Every+Day!+🌱" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neelislam&theme=algolia&no-frame=true&no-bg=true&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=neelislam&theme=onedark&no-frame=true&no-bg=true&row=2&column=3" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
