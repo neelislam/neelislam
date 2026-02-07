@@ -10,11 +10,10 @@
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm Apu
 
-I am a **Passionate Learner** and **Flutter Enthusiast** from Bangladesh. I love building mobile applications and exploring new technologies. For me, coding is a journey of constant discovery!
+I am a **Passionate Learner** and **Basic Programmer**. I love building applications and exploring new technologies.
 
-- 🔭 I’m currently working on **Flutter & Firebase** apps.
-- 🌱 I’m currently learning **Advanced State Management**.
-- 👯 I’m looking to collaborate on **Open Source Flutter Projects**.
+- 🔭 I’m currently learning **Flutter & Firebase**
+- 🌱 I’m currently exploring **Advanced State Management**
 - ⚡ Fun fact: **I love learning and teaching — it's like coding with extra steps!**
 - 📫 Reach me at: **rabiul17.ri@gmail.com**
 
@@ -28,7 +27,7 @@ I am a **Passionate Learner** and **Flutter Enthusiast** from Bangladesh. I love
 </table>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Flutter+Enthusiast+🚀;Building+Beautiful+UI+✨;Learning+Every+Day+🌱;Open+Source+Contributor+❤️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Flutter+Enthusiast+🚀;Learning+Something+New+Every+Day!+🌱;Open+Source+Contributor+❤️" alt="Typing SVG" />
 </a>
 
 </div>
