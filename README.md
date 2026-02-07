@@ -75,7 +75,10 @@ I am a **Passionate Learner** and **Basic Programmer**. I love building applicat
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelislam&theme=tokyonight&hide_border=true" />
 </div>
 
----
+<h3 align="center">🐍 My Contribution Snake</h3>
+<div align="center">
+  <img src="https://github.com/neelislam/neelislam/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
