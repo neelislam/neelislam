@@ -61,17 +61,6 @@ I am a **Passionate Learner** and **Basic Programmer**. I love building applicat
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=neelislam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelislam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-      </td>
-    </tr>
-  </table>
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelislam&theme=tokyonight&hide_border=true" />
 </div>
 
